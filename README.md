@@ -1,6 +1,6 @@
 <h1 align="center">
 DeepSeek in Practice, First Edition</h1>
-<p align="center">This is the code repository for <a href ="deepseek-in-practice-first-edition"> DeepSeek in Practice, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/deepseek-in-practice-9781806020843"> DeepSeek in Practice, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
