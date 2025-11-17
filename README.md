@@ -22,7 +22,7 @@ Andy Peng, Alex Strick van Linschoten, Duarte O. Carmo</p>
 <details open>
   <summary><h2>About the book</summary>
 <a href="https://www.packtpub.com/en-us/product/deepseek-in-practice-9781806020843">
-<img src="https://content.packt.com/B33471/cover_image_small.jpg" alt="DeepSeek in Practice, First Edition" height="256px" align="right">
+<img src="https://m.media-amazon.com/images/I/81jjIsEALkL._SL1500_.jpg" alt="DeepSeek in Practice, First Edition" height="256px" align="right">
 </a>
 
 Learn how to build, fine-tune, and deploy AI systems using DeepSeek, one of the most influential open-source large language models available today. This book guides you through real-world DeepSeek applications—from understanding its core architecture and training foundations to developing reasoning agents and deploying production-ready systems.
